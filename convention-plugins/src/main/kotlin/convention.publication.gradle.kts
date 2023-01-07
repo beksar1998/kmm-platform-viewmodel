@@ -61,9 +61,9 @@ publishing {
 
         // Provide artifacts information requited by Maven Central
         pom {
-            name.set("KMMLibrary")
-            description.set("KMMLibrary")
-            url.set("https://github.com/beksar1998/KMMLibrary")
+            name.set("KMM Platform ViewModel")
+            description.set("Platform ViewModel")
+            url.set("https://github.com/beksar1998/kmm-platform-viewmodel")
 
             licenses {
                 license {
@@ -79,7 +79,7 @@ publishing {
                 }
             }
             scm {
-                url.set("https://github.com/beksar1998/KMMLibrary")
+                url.set("https://github.com/beksar1998/kmm-platform-viewmodel")
             }
 
         }
