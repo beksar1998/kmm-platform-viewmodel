@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "kmm-platform-viewmodel"
 includeBuild("convention-plugins")
-include(":platform-viewmodel")
+include(":kmm-platform-viewmodel")

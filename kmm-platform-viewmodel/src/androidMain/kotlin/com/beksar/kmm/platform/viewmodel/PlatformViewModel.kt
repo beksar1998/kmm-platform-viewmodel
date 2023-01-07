@@ -1,4 +1,4 @@
-package com.beksar.platform.viewmodel
+package com.beksar.kmm.platform.viewmodel
 
 import androidx.lifecycle.ViewModel
 

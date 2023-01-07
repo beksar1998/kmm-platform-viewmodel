@@ -1,3 +1,3 @@
-package com.beksar.platform.viewmodel
+package com.beksar.kmm.platform.viewmodel
 
 expect abstract class PlatformViewModel()
